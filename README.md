@@ -9,3 +9,7 @@ Este algoritmo corresponde a una serie de pruebas de sensores con Arduino Nano.
   valores numericos elevados [701,800] corresponde a un estado
   de oscuridad.
 
+
+This algorithm corresponds to a series of sensor tests with Arduino Nano.
+
+Description: Photoensor connection with Arduino nano for the calculation of light emission. This algorithm uses analog data input for a numerical value where the threshold of values is [100,800]. The low values [100, 700] represent the state of LIGHT and the threshold of extreme numerical values [701,800] correspond to a state of darkness.
